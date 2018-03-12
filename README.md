@@ -1,0 +1,3 @@
+# IOT-API
+API für IOT-Daten, Transfer über HTML-Request
+post-request is ....
